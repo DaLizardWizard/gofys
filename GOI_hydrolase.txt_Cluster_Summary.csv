@@ -1,0 +1,220 @@
+,subcluster_1,subcluster_4,subcluster_3,subcluster_7,subcluster_6,subcluster_2,subcluster_5
+ beta-alanyl-dopamine hydrolase activity,0,0,0,0,0,0,0
+ beta-alanyl-histamine hydrolase activity,0,0,0,0,0,0,0
+ coenzyme F390-A hydrolase activity,0,0,0,0,0,0,0
+ coenzyme F390-G hydrolase activity,0,0,0,0,0,0,0
+ cytosine C-5 DNA demethylase activity,0,0,0,0,0,0,0
+ deacetylase activity,0,0,0,0,0,0,0
+ deaminase activity,0,0,0,0,0,0,0
+ GPI-anchor transamidase activity,0,0,0,0,0,0,0
+" hydrolase activity, acting on acid anhydrides",0,0,0,0,0,0,0
+" hydrolase activity, acting on acid carbon-carbon bonds",0,0,0,0,0,0,0
+" hydrolase activity, acting on acid carbon-phosphorus bonds",0,0,0,0,0,0,0
+" hydrolase activity, acting on acid halide bonds",0,0,0,0,0,0,0
+" hydrolase activity, acting on acid phosphorus-nitrogen bonds",0,0,0,0,0,0,0
+" hydrolase activity, acting on acid sulfur-nitrogen bonds",0,0,0,0,0,0,0
+" hydrolase activity, acting on acid sulfur-sulfur bonds",0,0,0,0,0,0,0
+" hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds",0,0,0,0,0,0,3
+" hydrolase activity, acting on carbon-sulfur bonds",0,0,0,0,0,0,0
+" hydrolase activity, acting on ester bonds",0,0,0,0,0,0,0
+" hydrolase activity, acting on ether bonds",0,0,0,0,0,0,0
+ negative regulation of hydrolase activity,0,0,0,0,0,0,0
+ palmitoyl hydrolase activity,0,0,0,0,0,0,0
+ peptidase activity,1,0,0,0,0,0,0
+ positive regulation of hydrolase activity,0,0,0,0,0,0,0
+ regulation of hydrolase activity,0,0,0,0,0,0,0
+ ubiquitinyl hydrolase activity,0,0,0,0,0,0,0
+" hydrolase activity, acting on glycosyl bonds",0,0,0,0,0,0,2
+" hydrolase activity, hydrolyzing N-glycosyl compounds",0,0,0,0,0,0,0
+" hydrolase activity, hydrolyzing O-glycosyl compounds",7,0,0,0,0,0,2
+" 2,6-beta-fructan 6-levanbiohydrolase activity",0,0,0,0,0,0,0
+ 2-acetamido-4-O-(2-amino-2-deoxy-beta-D-glucopyranosyl)-2-deoxy-D-glucose exo-beta-D-glucosaminidase activity,0,0,0,0,0,0,0
+ 2-phenylethyl 6-O-beta-D-xylopyranosyl-beta-D-glucopyranoside glucosidase (Yabukita) activity,0,0,0,0,0,0,0
+ 3-deoxy-2-octulosonidase activity,0,0,0,0,0,0,0
+ 3-deoxyoctulosonase activity,0,0,0,0,0,0,0
+ 4-alpha-D-(1->4)-alpha-D-glucanotrehalose trehalohydrolase activity,0,0,0,0,0,0,0
+ 6-O-methyl-deacetylisoipecoside beta-glucosidase activity,0,0,0,0,0,0,0
+ [protein]-3-O-(N-acetyl-D-glucosaminyl)-L-serine O-N-acetyl-alpha-D-glucosaminase activity,0,0,0,0,0,0,0
+ [protein]-3-O-(N-acetyl-D-glucosaminyl)-L-serine/L-threonine O-N-acetyl-alpha-D-glucosaminase activity,0,0,0,0,0,0,0
+ [protein]-3-O-(N-acetyl-D-glucosaminyl)-L-threonine O-N-acetyl-alpha-D-glucosaminase activity,0,0,0,0,0,0,0
+ acyl-glucuronidase activity,0,0,0,0,0,0,0
+ alpha-agarase activity,0,0,0,0,0,0,0
+ alpha-amylase activity (releasing maltohexaose),5,0,0,0,0,0,0
+ alpha-D-xyloside xylohydrolase,0,0,0,0,0,0,0
+ alpha-glucuronidase activity,0,0,0,0,0,0,0
+ alpha-L-arabinofuranosidase activity,3,0,0,0,0,0,0
+ alpha-L-rhamnosidase activity,0,0,0,0,0,0,0
+ alpha-neoagaro-oligosaccharide hydrolase activity,0,0,0,0,0,0,0
+ alpha-sialidase activity,0,0,0,0,0,0,0
+ amylase activity,0,0,0,0,0,0,0
+ amylopectin maltohydrolase activity,0,0,0,0,0,0,0
+" arabinan endo-1,5-alpha-L-arabinosidase activity",0,0,0,0,0,0,0
+ baicalin beta-D-glucuronidase activity,0,0,0,0,0,0,0
+ beta-6-sulfate-N-acetylglucosaminidase activity,0,0,0,0,0,0,0
+ beta-agarase activity,0,0,0,0,0,0,0
+ beta-D-fucosidase activity,0,0,0,0,0,0,0
+ beta-fructofuranosidase activity,0,0,0,0,0,0,0
+ beta-galactofuranosidase activity,0,0,0,0,0,0,0
+ beta-glucanase activity,0,0,0,0,0,0,0
+ beta-glucuronidase activity,0,0,0,0,0,0,0
+ beta-L-arabinofuranosidase activity,0,0,0,0,0,0,0
+ beta-L-arabinosidase activity,0,0,0,0,0,0,0
+ beta-L-rhamnosidase activity,0,0,0,0,0,0,0
+ beta-primeverosidase activity,0,0,0,0,0,0,0
+ cellulase activity,0,0,0,0,0,0,0
+" cellulose 1,4-beta-cellobiosidase activity",0,0,0,0,0,0,0
+" cellulose 1,4-beta-cellobiosidase activity (reducing end)",0,0,0,0,0,0,0
+ chitinase activity,0,0,0,0,0,0,0
+ chitosanase activity,0,0,0,0,0,0,0
+" cyanidin 3,5-diglucoside glucosidase activity",0,0,0,0,0,0,0
+" cyanidin 3,7-diglucoside glucosidase activity",0,0,0,0,0,0,0
+ cyclomaltodextrinase activity,0,0,0,0,0,0,0
+" d-4,5 unsaturated beta-glucuronyl hydrolase activity",0,0,0,0,0,0,0
+ dalcochinase activity,0,0,0,0,0,0,0
+" dextran 1,6-alpha-isomaltotriosidase activity",0,0,0,0,0,0,0
+ dextranase activity,0,0,0,0,0,0,0
+ difructose-anhydride synthase activity,0,0,0,0,0,0,0
+ dihydroceramidase activity,0,0,0,0,0,0,0
+ DIMBOA glucoside beta-D-glucosidase activity,0,0,0,0,0,0,0
+" endo-1,3-alpha-L-rhamnosidase activity",0,0,0,0,0,0,0
+ endo-xylogalacturonan hydrolase activity,0,0,0,0,0,0,0
+ endoglycosylceramidase activity,0,0,0,0,0,0,0
+" exo-1,4-beta-D-glucosaminidase activity",0,0,0,0,0,0,0
+ exo-poly-alpha-galacturonosidase activity,0,0,0,0,0,0,0
+" fructan beta-(2,1)-fructosidase activity",0,0,0,0,0,0,0
+" fructan beta-(2,6)-fructosidase activity",0,0,0,0,0,0,0
+ fructan beta-fructosidase activity,0,0,0,0,0,0,0
+ fucoidanase activity,0,0,0,0,0,0,0
+ fucosidase activity,0,0,0,0,0,0,0
+ galactosidase activity,0,0,0,0,0,0,0
+ galactosylceramidase activity,0,0,0,0,0,0,0
+ galactosylgalactosylglucosylceramidase activity,0,0,0,0,0,0,0
+" galacturan 1,4-alpha-galacturonidase activity",0,0,0,0,0,0,0
+" GDP-2,4-diacetamido-2,4,6-trideoxy-alpha-D-glucopyranose hydrolase/2-epimerase activity",0,0,0,0,0,0,0
+" glucan 1,4-alpha-maltohexaosidase activity",0,0,0,0,0,0,0
+" glucan 1,4-alpha-maltohydrolase activity",0,0,0,0,0,0,0
+" glucan 1,4-alpha-maltotetraohydrolase activity",0,0,0,0,0,0,0
+" glucan 1,4-alpha-maltotriohydrolase activity",0,0,0,0,0,0,0
+" glucan 1,6-alpha-isomaltosidase activity",0,0,0,0,0,0,0
+ glucosidase activity,0,0,0,0,0,0,0
+ glucosinolate glucohydrolase activity,0,0,0,0,0,0,0
+ glucosylceramidase activity,0,0,0,0,0,0,0
+ glucuronosyl-disulfoglucosamine glucuronidase activity,0,0,0,0,0,0,0
+ glycopeptide alpha-N-acetylgalactosaminidase activity,0,0,0,0,0,0,0
+ glycosylceramidase activity,0,0,0,0,0,0,0
+ glycuronidase activity,0,0,0,0,0,0,0
+ glycyrrhizinate beta-glucuronidase activity,0,0,0,0,0,0,0
+ heparanase activity,0,0,0,0,0,0,0
+ hexosaminidase activity,0,0,0,0,0,0,0
+ hyaluronoglucuronidase activity,0,0,0,0,0,0,0
+ inulinase activity,0,0,0,0,0,0,0
+ iota-carrageenase activity,0,0,0,0,0,0,0
+ isoamylase (maltodextrin-releasing) activity,0,0,0,0,0,0,0
+ isoamylase activity,0,0,0,0,0,0,0
+ isoflavone-7-O-glucoside beta-glucosidase activity,0,0,0,0,0,0,0
+ isopullulanase activity,0,0,0,0,0,0,0
+ kappa-carrageenase activity,0,0,0,0,0,0,0
+ L-iduronidase activity,0,0,0,0,0,0,0
+ lactase activity,0,0,0,0,0,0,0
+ lacto-N-biosidase activity,0,0,0,0,0,0,0
+ lambda-carrageenase activity,0,0,0,0,0,0,0
+ levanase activity,0,0,0,0,0,0,0
+ licheninase activity,0,0,0,0,0,3,0
+ limit dextrinase activity,0,0,0,0,0,0,0
+ linalyl 6-O-alpha-L-arabinopyranosyl-beta-D-glucopyranoside glucosidase (Yabukita) activity,0,0,0,0,0,0,0
+ negative regulation of lysozyme activity,0,0,0,0,0,0,0
+ lysozyme inhibitor activity,0,0,0,0,0,0,0
+ positive regulation of lysozyme activity,0,0,0,0,0,0,0
+" mannan 1,4-mannobiosidase activity",0,0,0,0,0,0,0
+ mannosidase activity,0,0,0,0,0,0,0
+ mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase activity,1,0,0,0,0,0,0
+ methyl beta-D-glucoside 6-phosphate glucohydrolase activity,8,0,0,0,0,0,0
+ mucinaminylserine mucinaminidase activity,0,0,0,0,0,0,0
+ mycodextranase activity,0,0,0,0,0,0,0
+" N,N'-diacetylchitobiose synthase activity",0,0,0,0,0,0,0
+ N-acetyl-beta-D-galactosaminidase activity,4,0,0,0,0,0,0
+ neo-lambda-carrahexaose hydrolase activity,0,0,0,0,0,0,0
+" neoagarobiose 1,3-alpha-3,6-anhydro-L-galactosidase activity",0,0,0,0,0,0,0
+" neoagarohexaose 1,3-alpha-3,6-anhydro-L-galactosidase activity",0,0,0,0,0,0,0
+" neoagarotetraose 1,3-alpha-3,6-anhydro-L-galactosidase activity",0,0,0,0,0,0,0
+ neopullulanase activity,0,0,0,0,0,0,0
+ oligosaccharide reducing-end xylanase activity,0,0,0,0,0,0,0
+ oligoxyloglucan reducing-end-specific cellobiohydrolase activity,0,0,0,0,0,0,0
+ peptidoglycan beta-N-acetylmuramidase activity,0,0,0,0,0,0,0
+ phytoceramidase activity,0,0,0,0,0,0,0
+ poly(ADP-ribose) glycohydrolase activity,0,0,0,0,0,0,0
+ polygalacturonase activity,0,0,0,0,0,0,0
+ polymannuronate hydrolase activity,0,0,0,0,0,0,0
+ pullulanase activity,4,0,0,0,0,0,0
+ quercitrinase activity,0,0,0,0,0,0,0
+ scopolin beta-glucosidase activity,0,0,0,0,0,0,0
+ thioglucosidase activity,0,0,0,0,0,0,0
+ trehalase activity,0,0,0,0,0,0,0
+" UDP-N,N'-diacetylbacillosamine 2-epimerase activity",0,0,0,0,0,0,0
+ unsaturated chondroitin disaccharide hydrolase activity,0,0,0,0,0,0,0
+ unsaturated rhamnogalacturonyl hydrolase activity,0,0,0,0,0,0,0
+" xylan alpha-1,2-glucuronosidase activity",0,0,0,0,0,0,0
+ xylanase activity,0,0,0,0,0,0,0
+" xyloglucan 1,6-alpha-xylosidase activity",0,0,0,0,0,0,0
+" hydrolase activity, hydrolyzing N-glycosyl compounds",0,0,0,0,0,0,0
+" hydrolase activity, hydrolyzing O-glycosyl compounds",7,0,0,0,0,0,2
+ sulfoquinovosidase activity,0,0,0,0,0,0,0
+ beta-alanyl-dopamine synthase activity,0,0,0,0,0,0,0
+ delta-(L-alpha-aminoadipyl)-L-cysteinyl-D-valine synthetase activity,0,0,0,0,0,0,0
+" ligase activity, forming carbon-carbon bonds",0,0,0,0,0,0,0
+" ligase activity, forming carbon-nitrogen bonds",0,0,0,0,0,0,0
+" ligase activity, forming carbon-oxygen bonds",0,0,0,0,0,0,0
+" ligase activity, forming carbon-sulfur bonds",0,0,0,0,0,0,0
+" ligase activity, forming nitrogen-metal bonds",0,0,0,0,0,0,0
+" ligase activity, forming phosphoric ester bonds",0,0,0,0,0,0,0
+ ligase inhibitor activity,0,0,0,0,0,0,0
+ ligase regulator activity,0,0,0,0,0,0,0
+ negative regulation of ligase activity,0,0,0,0,0,0,0
+ O antigen ligase activity,0,0,0,0,0,0,0
+ positive regulation of ligase activity,0,0,0,0,0,0,0
+ regulation of ligase activity,0,0,0,0,0,0,0
+ tRNA-specific 2-thiouridylase activity,0,0,0,0,0,0,0
+" (4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase activity",0,0,0,0,0,0,0
+ 4-amino-5-hydroxymethyl-2-methylpyrimidine phosphate synthase activity,0,0,0,0,0,0,0
+ cis-trans isomerase activity,0,0,0,0,0,0,0
+ dihydroneopterin triphosphate 2'-epimerase activity,0,0,0,0,0,0,0
+ DNA topoisomerase activity,0,0,0,0,0,0,0
+ eoxin A4 synthase activity,0,0,0,0,0,0,0
+ hepoxilin A3 synthase activity,0,0,0,0,0,0,0
+ hexulose-6-phosphate isomerase activity,0,0,0,0,0,0,0
+ intramolecular lyase activity,0,0,0,0,0,0,0
+ intramolecular oxidoreductase activity,0,0,0,0,0,0,0
+ intramolecular transferase activity,0,0,0,0,0,0,0
+ N-acylmannosamine-6-phosphate 2-epimerase activity,0,0,0,0,0,0,0
+ positive regulation of isomerase activity,0,0,0,0,0,0,0
+ racemase and epimerase activity,0,0,0,0,0,0,0
+ regulation of isomerase activity,0,0,0,0,0,0,0
+ RNA topoisomerase activity,0,0,0,0,0,0,0
+ S-adenosylmethionine:tRNA ribosyltransferase-isomerase activity,0,0,0,0,0,0,0
+ sulfoquinovose isomerase activity,0,0,0,0,0,0,0
+ thiocyanate isomerase activity,0,0,0,0,0,0,0
+" transferase activity, transferring acyl groups",0,0,0,0,0,0,0
+" transferase activity, transferring aldehyde or ketonic groups",0,0,0,0,0,0,0
+" transferase activity, transferring alkyl or aryl (other than methyl) groups",0,0,0,0,0,0,0
+" transferase activity, transferring glycosyl groups",13,0,0,2,0,0,4
+" transferase activity, transferring nitrogenous groups",0,0,0,0,0,0,0
+" transferase activity, transferring one-carbon groups",0,0,0,0,0,0,0
+" transferase activity, transferring phosphorus-containing groups",0,0,0,0,0,0,0
+" transferase activity, transferring selenium-containing groups",0,0,0,0,0,0,0
+" transferase activity, transferring sulfur-containing groups",0,0,0,0,0,0,0
+ 2-amino-5-formylamino-6-(5-phosphoribosylamino)pyrimidin-4(3H)-one formate-lyase activity,0,0,0,0,0,0,0
+ alkylmercury lyase activity,0,0,0,0,0,0,0
+ carbon phosphorus lyase activity,0,0,0,0,0,0,0
+ carbon-carbon lyase activity,0,0,0,0,0,0,0
+ carbon-halide lyase activity,0,0,0,0,0,0,0
+ carbon-nitrogen lyase activity,0,0,2,0,0,0,0
+ carbon-oxygen lyase activity,0,0,0,0,0,0,0
+ carbon-sulfur lyase activity,0,0,0,0,0,0,0
+ cobalt-precorrin-5A acetaldehyde-lyase activity,0,0,0,0,0,0,0
+ ferrochelatase activity,0,0,0,0,0,0,0
+ indoleacetaldoxime dehydratase activity,0,0,0,0,0,0,0
+ negative regulation of lyase activity,0,0,0,0,0,0,0
+ phosphorus-oxygen lyase activity,0,0,0,0,0,0,0
+ positive regulation of lyase activity,0,0,0,0,0,0,0
+ regulation of lyase activity,0,0,0,0,0,0,0
+ sirohydrochlorin cobaltochelatase activity,0,0,0,0,0,0,0
