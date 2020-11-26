@@ -2,7 +2,7 @@
 """
 Created on Thu May 30 13:58:41 2019
 
-@author: jr1214
+@author: DaLizardWizard
 """
 
 import sys
